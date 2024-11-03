@@ -1,3 +1,14 @@
-# 100-days-of-python
+# 100 Days of Python: A Journey Through Code (Based on Angela Yu's 100 days of Python course)
 
-Based on examples from the Udemy course 100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu. I am taking this course to brush up on my Python skills, learn new things, and have fun with Python. This repo has some cool examples I tried out
+
+## Why I’m Doing This
+
+- **Skill Refresh**: Python is a versatile language, and I want to brush up on fundamentals and advanced topics alike.
+
+## Repository Structure
+
+Each day has its own folder, containing:
+
+- **Code and Scripts**: Solutions, exercises, and mini-projects from the day.
+- **README (if needed)**: Notes or highlights for any concepts I found interesting or tricky.
+
